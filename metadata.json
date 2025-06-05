@@ -1,0 +1,6 @@
+{
+  "name": "UltraHD Imagen Generator",
+  "description": "An application that utilizes the Imagen framework to generate ultra-high-definition images from textual descriptions, allowing users to iterate and review the generated visuals.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
